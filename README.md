@@ -9,9 +9,12 @@
 
 - [Growcut: Interactive multi-label nd image segmentation by cellular automata](https://gc2011.graphicon.ru/html/2005/proceedings/papers/VezhntvetsKonushin.pdf)
 
+- [Deep Interactive Object Selection](https://arxiv.org/pdf/1603.04042.pdf)
+
 ## Other Fast Image Segmentation
 
 - [Segments.ai](https://segments.ai/blog/speed-up-image-segmentation-with-model-assisted-labeling) [[COLAB]](https://colab.research.google.com/github/segments-ai/fast-labeling-workflow/blob/master/demo.ipynb)
+
 
 
 
