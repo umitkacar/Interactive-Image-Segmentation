@@ -1,6 +1,3 @@
-# Fast-labeling-for-image-segmentation
-
-- [Segments.ai](https://segments.ai/blog/speed-up-image-segmentation-with-model-assisted-labeling) [[COLAB]](https://colab.research.google.com/github/segments-ai/fast-labeling-workflow/blob/master/demo.ipynb)
 
 ## Interactive Image Segmentation
 
@@ -11,6 +8,10 @@
 - [Random Walks for Image Segmentation](http://vision.cse.psu.edu/people/chenpingY/paper/grady2006random.pdf)
 
 - [Growcut: Interactive multi-label nd image segmentation by cellular automata](https://gc2011.graphicon.ru/html/2005/proceedings/papers/VezhntvetsKonushin.pdf)
+
+## Other Fast Image Segmentation
+
+- [Segments.ai](https://segments.ai/blog/speed-up-image-segmentation-with-model-assisted-labeling) [[COLAB]](https://colab.research.google.com/github/segments-ai/fast-labeling-workflow/blob/master/demo.ipynb)
 
 
 
