@@ -11,6 +11,8 @@
 
 - [Deep Interactive Object Selection](https://arxiv.org/pdf/1603.04042.pdf)
 
+- [Interactive Image Segmentation with Latent Diversity](https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Interactive_Image_Segmentation_CVPR_2018_paper.pdf)
+
 ## Other Fast Image Segmentation
 
 - [Segments.ai](https://segments.ai/blog/speed-up-image-segmentation-with-model-assisted-labeling) [[COLAB]](https://colab.research.google.com/github/segments-ai/fast-labeling-workflow/blob/master/demo.ipynb)
