@@ -21,6 +21,13 @@
 
 - [2020 - A survey of recent interactive image segmentation methods](https://link.springer.com/content/pdf/10.1007/s41095-020-0177-5.pdf)
 
+## Dataset
+
+- GrabCut
+- Berkeley
+- DAVIS
+- SBD
+
 ## Other Fast Image Segmentation
 
 - [Segments.ai](https://segments.ai/blog/speed-up-image-segmentation-with-model-assisted-labeling) [[COLAB]](https://colab.research.google.com/github/segments-ai/fast-labeling-workflow/blob/master/demo.ipynb)
