@@ -13,6 +13,8 @@
 
 - [Interactive Image Segmentation with Latent Diversity](https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Interactive_Image_Segmentation_CVPR_2018_paper.pdf)
 
+- [Content-Aware Multi-Level Guidance for Interactive Instance Segmentation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Majumder_Content-Aware_Multi-Level_Guidance_for_Interactive_Instance_Segmentation_CVPR_2019_paper.pdf)
+
 ## Survey
 
 - [2020 - A survey of recent interactive image segmentation methods](https://link.springer.com/content/pdf/10.1007/s41095-020-0177-5.pdf)
