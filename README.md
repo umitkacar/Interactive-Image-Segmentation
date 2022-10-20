@@ -5,7 +5,7 @@
 
 - [Reviving Iterative Training with Mask Guidance for Interactive Segmentation](https://arxiv.org/pdf/2102.06583.pdf) (2021) [[CODE]](https://github.com/saic-vul/ritm_interactive_segmentation)
 
-- [f-BRS: Rethinking Backpropagating Refinement for Interactive Segmentation](https://arxiv.org/pdf/2001.10331.pdf) (2020) [[COLAB]](https://colab.research.google.com/github/saic-vul/fbrs_interactive_segmentation/blob/master/notebooks/colab_test_any_model.ipynb) [[CODE]](https://github.com/saic-vul/fbrs_interactive_segmentation) [[YOUTUBE]](https://www.youtube.com/watch?v=ArcZ5xtyMCk)
+- [f-BRS: Rethinking Backpropagating Refinement for Interactive Segmentation](https://arxiv.org/pdf/2001.10331.pdf) (2020) [[CODE]](https://github.com/saic-vul/fbrs_interactive_segmentation) [[COLAB]](https://colab.research.google.com/github/saic-vul/fbrs_interactive_segmentation/blob/master/notebooks/colab_test_any_model.ipynb)  [[YOUTUBE]](https://www.youtube.com/watch?v=ArcZ5xtyMCk)
 
 - [Geodesic Star Convexity for Interactive Image Segmentation](https://www.robots.ox.ac.uk/~vgg/publications/2010/Gulshan10/gulshan10.pdf)
 
