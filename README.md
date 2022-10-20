@@ -17,7 +17,7 @@
 
 - [Interactive Image Segmentation via Backpropagating Refinement Scheme](https://vcg.seas.harvard.edu/publications/interactive-image-segmentation-via-backpropagating-refinement-scheme/paper)
 
-- [Reviving Iterative Training with Mask Guidance for Interactive Segmentation](https://arxiv.org/pdf/2102.06583.pdf)
+- [Reviving Iterative Training with Mask Guidance for Interactive Segmentation](https://arxiv.org/pdf/2102.06583.pdf) (2021)
 
 ## Survey
 
