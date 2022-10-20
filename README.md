@@ -17,6 +17,8 @@
 
 - [Interactive Image Segmentation via Backpropagating Refinement Scheme](https://vcg.seas.harvard.edu/publications/interactive-image-segmentation-via-backpropagating-refinement-scheme/paper)
 
+- [https://arxiv.org/pdf/2102.06583.pdf](https://arxiv.org/pdf/2102.06583.pdf)
+
 ## Survey
 
 - [2020 - A survey of recent interactive image segmentation methods](https://link.springer.com/content/pdf/10.1007/s41095-020-0177-5.pdf)
