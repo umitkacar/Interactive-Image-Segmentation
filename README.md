@@ -44,6 +44,8 @@
 
 - [Segments.ai](https://segments.ai/blog/speed-up-image-segmentation-with-model-assisted-labeling) [[COLAB]](https://colab.research.google.com/github/segments-ai/fast-labeling-workflow/blob/master/demo.ipynb)
 
+- [Rethinking Semantic Segmentation: A Prototype View](https://github.com/tfzhou/ProtoSeg)
+
 
 
 
