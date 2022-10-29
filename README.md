@@ -1,6 +1,10 @@
 
 ## Interactive Image Segmentation
 
+-  https://github.com/PaddlePaddle/PaddleSeg/tree/release/2.6/EISeg
+
+- https://github.com/PaddlePaddle/PaddleSeg
+
 - [FocalClick: Towards Practical Interactive Image Segmentation](https://arxiv.org/pdf/2204.02574.pdf) (2022) [[CODE]](https://github.com/XavierCHEN34/ClickSEG)
 
 - [UCP-Net: Unstructured Contour Points for Instance Segmentation](https://arxiv.org/pdf/2109.07592v1.pdf)
